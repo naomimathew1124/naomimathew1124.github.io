@@ -34,13 +34,13 @@ body {
   color: white;
 }
 
-.container {
+.container img {
     max-width: 60%;
     max-height: 60%;
 }
 
 .par {
-  padding: 300px;
+  padding: 200px;
   text-align: left;
   color: black;
   font-size: 20px;
