@@ -38,3 +38,10 @@ body {
     width: 60%;
     height: 60%;
 }
+
+.par {
+  padding: 30px;
+  text-align: left;
+  color: #D9E4EC;
+  font-size: 15px;
+} 
