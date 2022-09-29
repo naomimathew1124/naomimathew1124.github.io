@@ -36,3 +36,8 @@ body {
   background-color: #60A3D9;
   color: white;
 }
+
+.container {
+    width: 60%;
+    height: 60%;
+}
